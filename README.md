@@ -1,3 +1,3 @@
 # Vectorix
-program pro vykreslování geometrických útvarů.
-nejnovější verze bohužel zemřela spolu s mou flashkou
+Program pro vykreslování geometrických útvarů.
+Nejnovější verze bohužel zemřela spolu s mou flashkou.
